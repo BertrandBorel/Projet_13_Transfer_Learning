@@ -10,6 +10,7 @@ Dans ce brief, nous appliquons un apprentissage supervisé pour identifier si la
 
 NB. Utiliser le Colab pour l'apprentissage du modèle (https://colab.research.google.com/?hl=fr)
 
+
 ​
 
 ## Manipulation des images.
