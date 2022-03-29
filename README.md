@@ -75,18 +75,21 @@ Pour un début, cherchez des images sur le net ou prenez photos entre vous et te
 
 Par la suite, vous êtes censés à développer un code python qui va activer la Webcam et identifier si la personne qui est devant la Webcam porte un masque en affichant le message : Avec masque ou Non masque sur l’image.
 
+​
 
 ## Modalités pédagogiques
 Le deadline pour rendre ce travail est fixé pour le 4 avril.
 
 Le projet est réalisé en groupe de 2 personnes.
 
+​
 
 ## Critères de performance
 Le code doit être bien structuré
 Le bon choix du modèle CNN.
 Le bon fonctionnement de l'Application demandée.
 
+​
 
 ## Modalités d'évaluation
 Un rapport sur le projet réalisé qui explique les différentes étapes du code
@@ -95,6 +98,7 @@ Présentation de l'architecture utilisée
 Conclusion (avantages et inconvénients, concurrents, recommandations…)
 Revue de code avec le formateur.
 
+​
 
 ## Livrables
 Un dépôt GitHub avec :
