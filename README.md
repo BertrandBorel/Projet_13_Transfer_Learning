@@ -14,11 +14,13 @@ NB. Utiliser le Colab pour l'apprentissage du modèle (https://colab.research.go
 ​
 
 ## Manipulation des images.
-Analyse, prétraitement et visualisation des images.
-Manipulation et l’exploitation de la Bibliothèque Tensorflow.
-Charger un modèle CNN à partir de Tensorflow.
-Appliquer le Transfer Learning (sur VGG16).
-Faire des tests à partir de la webcam
+- Analyse, prétraitement et visualisation des images.
+- Manipulation et l’exploitation de la Bibliothèque Tensorflow.
+- Charger un modèle CNN à partir de Tensorflow.
+- Appliquer le Transfer Learning (sur VGG16).
+- Faire des tests à partir de la webcam
+
+
 ​
 
 ## Phases de brief
