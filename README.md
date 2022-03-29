@@ -12,10 +12,6 @@ NB. Utiliser le Colab pour l'apprentissage du modèle (https://colab.research.go
 
 ​
 
-## Challenges
-
-​
-
 ## Manipulation des images.
 Analyse, prétraitement et visualisation des images.
 Manipulation et l’exploitation de la Bibliothèque Tensorflow.
